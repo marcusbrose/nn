@@ -11,4 +11,4 @@ Finally the border texture is added on top making the corner boxes rounded. It i
 # Reasons
 The number textures loaded from the sprite sheet is very low. All can be reused for multiple game tiles.
 
-The Textures are very small and required less memory than drawing ready to use game tiles on the sprite sheet.
+The textures are very small and require less memory than drawing ready to use game tiles on the sprite sheet.
