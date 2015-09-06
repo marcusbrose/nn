@@ -1,0 +1,7 @@
+
+.metadata/*
+.actionScriptProperties
+.project
+.settings/*
+*.prefs
+*/bin-debug/*
